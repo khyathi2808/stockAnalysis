@@ -5,10 +5,10 @@ stock_name="TESLA"
 company_name="Tesla Inc"
 stock_endpoint="https://www.alphavantage.co/query"
 news_endpoint="https://newsapi.org/v2/everything"
-stock_api_key="85PPYPARXVKLP1M0"
-news_api="1b626842b7ab4b36ab38a43c68b7a5ee"
-twilio_sid="ACe4dda6f37d1f6afa7e78036cd416b5ea"
-twilio_auth_token="33776b401644d42b3631320697319c65"
+stock_api_key="API_KEYS"
+news_api="API KEYS"
+twilio_sid="SID"
+twilio_auth_token="TOKEN"
  
 stock_params={
     "function":"TIME_SERIES_DAILY",
